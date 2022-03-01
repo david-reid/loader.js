@@ -1,0 +1,10 @@
+a {
+    margin-right:2em;
+}
+
+#template {
+    margin: 2em 0;
+    padding: 1em;
+    border:1px solid #ccc;
+    width:50%;
+}

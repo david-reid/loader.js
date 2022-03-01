@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^13.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-reid/loader.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-reid/loader.js/issues"
+  },
+  "homepage": "https://github.com/david-reid/loader.js#readme"
+}
